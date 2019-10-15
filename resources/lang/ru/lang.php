@@ -127,6 +127,7 @@ return [
         'updated'              => '<i class="fa fa-check fa-lg"></i> Запись успешно обновлена',
         'deleted'              => '<i class="fa fa-check fa-lg"></i> Запись успешно удалена',
         'restored'             => '<i class="fa fa-check fa-lg"></i> Запись успешно восстановлена',
+        'destroyed'            => '<i class="fa fa-check fa-lg"></i> Запись успешно удалена из базы данных',
         'something_went_wrong' => 'Что-то пошло не так!',
         'are_you_sure'         => 'Вы уверены?',
         'access_denied'        => 'Доступ запрещен',
